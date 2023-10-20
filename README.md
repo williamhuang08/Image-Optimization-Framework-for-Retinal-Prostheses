@@ -5,13 +5,13 @@ Retinal prostheses are currently limited to low-resolution grayscale images that
 
 # Using this Repo
 For additional guidance, please contact the author.
-<ol>
+<ul>
   <li> As the first step, find a dataset/datasets of images with varying objects in clear contrast to their background. Alternatively, if you have a webcam, you may connect it to your device to create your own dataset.
   <li> Next, use the script entitled <b>videocam.py</b> to create optimized images. The code will automatically output five different images for each input image (detailed below). If you chose to use existing datasets, the model will output a processed version of all images in the dataset. If you chose to capture images, you must click on the space bar to capture an image. Once completed, press esc.
-    <ol>
+    <ul>
       <li> 1.![Figure 1](https://github.com/williamhuang08/Image-Optimization-Framework-for-Retinal-Prostheses/blob/e93db9fbd2d50d9a562e07a8a3728499d8e7fd7a/Figures/VPU_frame_0.png)
-    <ol>
-<ol>
+    <ul>
+<ul>
 
 
 
