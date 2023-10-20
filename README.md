@@ -11,11 +11,11 @@ For additional guidance, please contact the author.
 <ul>
   <li> As the first step, find a dataset/datasets of images with varying objects in clear contrast to their background. Alternatively, if you have a webcam, you may connect it to your device to create your own dataset.
   <li> Next, use the script entitled <b>videocam.py</b> to create optimized images for retinal prostheses patients (100 x 100 pixels). The code will automatically output five different images for each input image in your dataset (detailed below). If you chose to use existing datasets, the model will output a processed version of all images in the dataset. If you chose to capture images, you must click on the space bar to capture an image. Once completed, press esc.
-    1. The captured image (or input image if a database was used).
-    2. A region-contrast saliency map that removes unnecessary background information and helps patients focus on the main objects in the images.
-    3. A image with the edges of the salient objects extracted (adopted the Canny operator).
-    4. With a given image with M number of colors, the image is partitioned into n-distinct clusters with each cluster representing a unique color using the MiniBatchKmeans clustering algorithm.
-    5. The final output image.
+    - 1. The captured image (or input image if a database was used).
+    - 2. A region-contrast saliency map that removes unnecessary background information and helps patients focus on the main objects in the images.
+    - 3. A image with the edges of the salient objects extracted (adopted the Canny operator).
+    - 4. With a given image with M number of colors, the image is partitioned into n-distinct clusters with each cluster representing a unique color using the MiniBatchKmeans clustering algorithm.
+    - 5. The final output image.
 <ul>
   
 
