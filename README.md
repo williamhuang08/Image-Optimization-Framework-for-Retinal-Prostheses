@@ -10,8 +10,8 @@ For additional guidance, please contact the author.
   <li> Next, use the script entitled <b>videocam.py</b> to create optimized images. The code will automatically output five different images for each input image (detailed below). If you chose to use existing datasets, the model will output a processed version of all images in the dataset. If you chose to capture images, you must click on the space bar to capture an image. Once completed, press esc.
     <ol>
       <li> 1.![Figure 1](https://github.com/williamhuang08/Image-Optimization-Framework-for-Retinal-Prostheses/blob/e93db9fbd2d50d9a562e07a8a3728499d8e7fd7a/Figures/VPU_frame_0.png)
-
+    <ol>
 <ol>
 
 # Paper
-Check out my paper published in IEEE Xplore!: (https://ieeexplore.ieee.org/document/9701618/metrics#metrics)
+Check out my paper published in IEEE Xplore titled "Enhancing the Bionic Eye: A Real-Time Image Optimization Framework to Encode Color and Spatial Information into Retinal Prostheses" (https://ieeexplore.ieee.org/document/9701618)
