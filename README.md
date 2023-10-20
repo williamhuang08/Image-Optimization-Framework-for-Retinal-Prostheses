@@ -16,7 +16,6 @@ For additional guidance, please contact the author.
     3. A image with the edges of the salient objects extracted (adopted the Canny operator).
     4. With a given image with M number of colors, the image is partitioned into n-distinct clusters with each cluster representing a unique color using the MiniBatchKmeans clustering algorithm.
     5. The final output image.
-
 <ul>
   
 
