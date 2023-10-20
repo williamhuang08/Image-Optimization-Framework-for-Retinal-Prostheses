@@ -13,5 +13,7 @@ For additional guidance, please contact the author.
     <ol>
 <ol>
 
+
+
 # Paper
 Check out my paper published in IEEE Xplore titled "Enhancing the Bionic Eye: A Real-Time Image Optimization Framework to Encode Color and Spatial Information into Retinal Prostheses" (https://ieeexplore.ieee.org/document/9701618)
